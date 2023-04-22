@@ -27,4 +27,4 @@ Click on Save
 Below msg will be displayed:
 Your GitHub Pages site is currently being built from the master branch.
 
-Generated URL: https://mahanteshtalikoti-git.github.io/sass_crash_course/
+Generated URL: https://mahanteshtalikoti-git.github.io/terminal-website/
